@@ -1,0 +1,1 @@
+[2019-11-27 21:07:02] WARN  org.apache.juli.logging.DirectJDKLog 173 log - The MBean registry cannot be disabled because it has already been initialised
